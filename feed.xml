@@ -109,5 +109,21 @@
 				<guid isPermaLink="true">/note/javascript/basics/effective-method-using-javascript-to-hide-email-address-from-spam-bots.html</guid>
 			</item>
 		
+			<item>
+				<title>Howto programmingcally convert data from excel to mysql using Groovy</title>
+				<description>&lt;p&gt;There are many way to convert data from excel to mysql. &lt;/p&gt;
+
+&lt;h2 id=&quot;declare-maven-dependency&quot;&gt;Declare maven dependency&lt;/h2&gt;
+
+&lt;h2 id=&quot;how-java-web-console-works&quot;&gt;How java-web-console works?&lt;/h2&gt;
+
+&lt;h2 id=&quot;a-look-inside-java-web-console&quot;&gt;A look inside java-web-console&lt;/h2&gt;
+
+</description>
+				<pubDate>Sun, 20 Jul 2014 00:00:00 +0700</pubDate>
+				<link>/note/java/groovy/snippet/howto-programmingcally-convert-data-from-excel-to-mysql-using-groovy.html</link>
+				<guid isPermaLink="true">/note/java/groovy/snippet/howto-programmingcally-convert-data-from-excel-to-mysql-using-groovy.html</guid>
+			</item>
+		
 	</channel>
 </rss>
